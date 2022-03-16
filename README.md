@@ -1,3 +1,15 @@
+# *Notice:*
+
+This is a fork of [techgaun/active-forks](https://github.com/techgaun/active-forks)
+
+The original repository has broken GitHub pages when I checked, therefore you cannot use its link
+
+I forked it and created the GitHub pages on this repository so everyone can use it to [find the most active forks of a repository](https://sichanghe.github.io/active-forks/)
+
+---
+
+# Original README below:
+
 # active-forks
 
 > Find the active github forks of a project
